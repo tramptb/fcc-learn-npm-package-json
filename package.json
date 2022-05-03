@@ -2,5 +2,14 @@
   "name": "fcc-learn-npm-package-json",
   "author": "foobar",
   "version": "1.0.0",
-  "dependencies": {}
+  "dependencies": {
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tramptb/fcc-learn-npm-package-json"
+  }
 }
