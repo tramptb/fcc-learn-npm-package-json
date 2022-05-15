@@ -4,6 +4,7 @@
 	"description": "A project that manages the npm package ",
 	"keywords": [ "descriptive", "related", "freecodecamp", "npm" ],
 	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
